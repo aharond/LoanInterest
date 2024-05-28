@@ -1,4 +1,4 @@
-# LoanIterest
+# LoanInterest
 ## Setup instructions
 - [Download .NET](https://dotnet.microsoft.com/download/dotnet)
 - [dotnet-install scripts](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-install-script)
